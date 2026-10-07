@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shivansh 👋
 
-<!--
-**Shivansh1067/Shivansh1067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <img src="./dark.svg" alt="Shivansh Srivastava">
+</picture>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>AI Engineer · Full-Stack Engineer · Backend Systems · AI & SaaS Builder</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🤖 AI / LLMs &nbsp;·&nbsp; 🐍 Python &nbsp;·&nbsp; ⚡ AWS Lambda &nbsp;·&nbsp; ⚛️ React / Next.js
+  &nbsp;·&nbsp; ⚙️ Node.js &nbsp;·&nbsp; ☁️ AWS &nbsp;·&nbsp; 🧠 System Design
+</p>
+
+I build **AI-powered products, scalable backend systems, SaaS platforms, automation workflows, and production web applications**.
+
+My current engineering interests sit at the intersection of **AI/LLMs, Python, serverless systems, full-stack development, backend architecture, and developer automation**.
+
+---
