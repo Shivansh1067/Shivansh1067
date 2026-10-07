@@ -402,10 +402,13 @@
         <rect x="0.5" y="0.5" width="11" height="11" rx="2" fill="none" stroke="#38bdf8" stroke-width="1.1"/>
         <text x="3" y="9" font-size="8" fill="#38bdf8" font-family="sans-serif" font-weight="bold">in</text>
       </g>
-      <text x="36" y="59" class="label-cyan">LinkedIn</text>
+           <text x="36" y="59" class="label-cyan">LinkedIn</text>
       <text x="105" y="59" class="muted-dots">......................</text>
       <text x="175" y="59" class="white-text">linkedin.com/in/vaibhavkhushalani</text>
 
+    </g>
+
+    <!-- Live data flow -->
 
     <!-- Live data flow -->
     <g pointer-events="none" opacity=".75">
