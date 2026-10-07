@@ -375,7 +375,7 @@
       </text>
     </g>
 <!-- Key-Value Specifications -->
-<g transform="translate(20, 75)" class="font-mono" font-size="16">
+<g transform="translate(20, 75)" class="font-mono" font-size="18">
 
   <!-- Name -->
   <text x="0" y="0" class="label-cyan">&gt; Name</text>
@@ -418,7 +418,7 @@
     
 
     <!-- Links Section -->
-    <g transform="translate(20, 375)" class="font-mono" font-size="18">
+    <g transform="translate(20, 375)" class="font-mono" font-size="16">
       <text x="0" y="0" class="label-cyan" font-weight="bold">&gt; Links</text>
       
 <!-- Separator before Links -->
@@ -438,7 +438,7 @@
       </g>
            <text x="36" y="59" class="label-cyan">LinkedIn</text>
       <text x="105" y="59" class="muted-dots">......................</text>
-      <text x="175" y="59" class="white-text">linkedin.com/in/shivansh-srivastava-3047473b1</text>
+      <text x="175" y="59" class="white-text">linkedin.com/in/shivansh-srivastava</text>
 
     </g>
 
