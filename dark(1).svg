@@ -418,7 +418,7 @@
     
 
     <!-- Links Section -->
-    <g transform="translate(20, 375)" class="font-mono" font-size="11.5">
+    <g transform="translate(20, 375)" class="font-mono" font-size="18">
       <text x="0" y="0" class="label-cyan" font-weight="bold">&gt; Links</text>
       
 <!-- Separator before Links -->
@@ -429,7 +429,7 @@
       </g>
       <text x="36" y="21" class="label-cyan">GitHub</text>
       <text x="96" y="21" class="muted-dots">.......................</text>
-      <text x="175" y="21" class="white-text">github.com/vaibhavkhushalani</text>
+      <text x="175" y="21" class="white-text">github.com/Shivansh1067</text>
 
       <!-- LinkedIn -->
       <g transform="translate(18, 49)">
@@ -438,7 +438,7 @@
       </g>
            <text x="36" y="59" class="label-cyan">LinkedIn</text>
       <text x="105" y="59" class="muted-dots">......................</text>
-      <text x="175" y="59" class="white-text">linkedin.com/in/vaibhavkhushalani</text>
+      <text x="175" y="59" class="white-text">linkedin.com/in/shivansh-srivastava-3047473b1</text>
 
     </g>
 
@@ -461,9 +461,9 @@
     </g>
 
     <!-- Bottom Active Terminal Prompt Line with Blinking Cursor -->
-    <g transform="translate(20, 478)" class="font-mono" font-size="12.5">
+    <g transform="translate(20, 478)" class="font-mono" font-size="16">
       <text x="0" y="0">
-        <tspan fill="#3b82f6" font-weight="bold">vaibhav@developer</tspan><tspan fill="#64748b">:~#</tspan>
+        <tspan fill="#3b82f6" font-weight="bold">Shivansh@developer</tspan><tspan fill="#64748b">:~#</tspan>
       </text>
       <rect x="150" y="-11" width="7.5" height="13" fill="#ffffff" class="cursor-blink"/>
     </g>
