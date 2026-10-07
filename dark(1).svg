@@ -84,6 +84,12 @@
   </defs>
 
   <style>
+    .separator {
+  stroke: #00eaff;
+  stroke-width: 0.8;
+  stroke-dasharray: 4 4;
+  opacity: 0.65;
+}
     .font-mono {
       font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace;
     }
@@ -343,44 +349,45 @@
         <tspan fill="#3b82f6">vaibhav@developer</tspan><tspan fill="#64748b">:~#</tspan> <tspan fill="#e2f1ff">./profile.sh</tspan>
       </text>
     </g>
-
 <!-- Key-Value Specifications -->
 <g transform="translate(20, 75)" class="font-mono" font-size="11.5">
 
   <!-- Name -->
   <text x="0" y="0" class="label-cyan">&gt; Name</text>
-  <text x="56" y="0" class="muted-dots">............................</text>
+  <text x="56" y="0" class="muted-dots">....................</text>
   <text x="175" y="0" class="white-text" font-weight="500">Shivansh Srivastava</text>
+  <line x1="0" y1="16" x2="440" y2="16" class="separator"/>
 
   <!-- Role -->
-  <text x="0" y="20" class="label-cyan">&gt; Role</text>
-  <text x="56" y="20" class="muted-dots">............................</text>
-  <text x="175" y="20" class="white-text">CSE Undergraduate</text>
-
-  <!-- Location -->
-  <text x="0" y="40" class="label-cyan">&gt; Location</text>
-  <text x="82" y="40" class="muted-dots">........................</text>
-  <text x="175" y="40" class="white-text">Delhi NCR, India</text>
+  <text x="0" y="45" class="label-cyan">&gt; Role</text>
+  <text x="56" y="45" class="muted-dots">....................</text>
+  <text x="175" y="45" class="white-text">CSE Undergraduate</text>
+  <line x1="0" y1="61" x2="440" y2="61" class="separator"/>
 
   <!-- Focus -->
-  <text x="0" y="60" class="label-cyan">&gt; Focus</text>
-  <text x="64" y="60" class="muted-dots">..........................</text>
-  <text x="175" y="60" class="white-text">DSA, Web Development, Cloud</text>
+  <text x="0" y="90" class="label-cyan">&gt; Focus</text>
+  <text x="64" y="90" class="muted-dots">...................</text>
+  <text x="175" y="90" class="white-text">DSA • Web Development • Cloud</text>
+  <line x1="0" y1="106" x2="440" y2="106" class="separator"/>
 
   <!-- Learning -->
-  <text x="0" y="80" class="label-cyan">&gt; Learning</text>
-  <text x="64" y="80" class="muted-dots">..........................</text>
-  <text x="175" y="80" class="white-text">C++, MERN, System Design</text>
+  <text x="0" y="135" class="label-cyan">&gt; Learning</text>
+  <text x="64" y="135" class="muted-dots">...................</text>
+  <text x="175" y="135" class="white-text">C++ • MERN • System Design</text>
+  <line x1="0" y1="151" x2="440" y2="151" class="separator"/>
 
   <!-- Exploring -->
-  <text x="0" y="100" class="label-cyan">&gt; Exploring</text>
-  <text x="76" y="100" class="muted-dots">........................</text>
-  <text x="175" y="100" class="white-text">AI/LLMs, Hackathons, AWS</text>
+  <text x="0" y="180" class="label-cyan">&gt; Exploring</text>
+  <text x="64" y="180" class="muted-dots">...................</text>
+  <text x="175" y="180" class="white-text">AI/LLMs • Hackathons • AWS</text>
+  <line x1="0" y1="196" x2="440" y2="196" class="separator"/>
 
-  <!-- Interests -->
-  <text x="0" y="120" class="label-cyan">&gt; Interests</text>
-  <text x="88" y="120" class="muted-dots">......................</text>
-  <text x="175" y="120" class="white-text">Building scalable AI integrated web applications</text>
+  <!-- Interest -->
+  <text x="0" y="225" class="label-cyan">&gt; Interest</text>
+  <text x="64" y="225" class="muted-dots">...................</text>
+  <text x="175" y="225" class="white-text">Building scalable AI-integrated</text>
+  <text x="175" y="243" class="white-text">web applications</text>
+  <line x1="0" y1="260" x2="440" y2="260" class="separator"/>
 
 </g>
     
@@ -388,7 +395,9 @@
     <!-- Links Section -->
     <g transform="translate(20, 375)" class="font-mono" font-size="11.5">
       <text x="0" y="0" class="label-cyan" font-weight="bold">&gt; Links</text>
-
+      
+<!-- Separator before Links -->
+<line x1="20" y1="335" x2="460" y2="335" class="separator"/>
       <!-- GitHub -->
       <g transform="translate(18, 11)">
         <path d="M6 0C2.69 0 0 2.74 0 6.12c0 2.71 1.72 5.01 4.1 5.82.3.06.41-.13.41-.3v-1.05c-1.67.37-2.02-.82-2.02-.82-.27-.71-.67-.9-.67-.9-.55-.38.04-.37.04-.37.6.04.92.64.92.64.54.94 1.41.67 1.76.51.05-.4.21-.67.38-.83-1.33-.16-2.74-.68-2.74-3.04 0-.67.24-1.22.62-1.65-.06-.16-.27-.79.06-1.64 0 0 .5-.17 1.66.63.48-.14 1-.21 1.5-.21.51 0 1.02.07 1.5.21 1.15-.8 1.65-.63 1.65-.63.34.85.13 1.48.07 1.64.39.43.62.98.62 1.65 0 2.37-1.41 2.88-2.75 3.03.22.2.42.58.42 1.16v1.72c0 .17.11.36.42.3C10.28 11.12 12 8.83 12 6.12 12 2.74 9.31 0 6 0z" fill="#38bdf8"/>
