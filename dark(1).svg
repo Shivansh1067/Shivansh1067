@@ -375,7 +375,7 @@
       </text>
     </g>
 <!-- Key-Value Specifications -->
-<g transform="translate(20, 75)" class="font-mono" font-size="14">
+<g transform="translate(20, 75)" class="font-mono" font-size="16">
 
   <!-- Name -->
   <text x="0" y="0" class="label-cyan">&gt; Name</text>
