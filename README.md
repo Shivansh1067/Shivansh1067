@@ -51,7 +51,7 @@ I write about **backend engineering, AI products, performance and real-world eng
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=Shivansh1067&hide=forks,prs_merged,issues,contributed" alt="GitHub profile statistics">
+  <img src="https://gh-readme-profile.vercel.app/api?username=Shivansh1067&hide=forks,prs_merged,issues,contributed&photo_resize=120&photo_quality=100" alt="Shivansh GitHub profile statistics">
 </p>
 
 <h2 align="center">Contribution Activity</h2>
