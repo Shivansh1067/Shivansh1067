@@ -1,8 +1,8 @@
 # Hi, I'm Shivansh 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-animation (11).webp">
-  <img src="./profile-animation (11).webp" alt="Shivansh Srivastava">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark(1).svg">
+  <img src="./dark(1).svg" alt="Shivansh Srivastava">
 </picture>
 
 <p align="center">
