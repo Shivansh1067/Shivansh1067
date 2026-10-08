@@ -51,7 +51,7 @@ I write about **backend engineering, AI products, performance and real-world eng
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=VaibhavKhushalani&hide=forks,prs_merged,issues,contributed" alt="GitHub profile statistics">
+  <img src="https://gh-readme-profile.vercel.app/api?username=Shivansh1067&hide=forks,prs_merged,issues,contributed" alt="GitHub profile statistics">
 </p>
 
 <h2 align="center">Contribution Activity</h2>
@@ -79,9 +79,7 @@ I write about **backend engineering, AI products, performance and real-world eng
 
 <p>
   💼 <a href="https://www.linkedin.com/in/vaibhav-khushalani-760217136/">LinkedIn</a><br>
-  🌐 <a href="https://easyfolio.wuwb.in/vaibhav_khushalani">Portfolio</a><br>
-  📝 <a href="https://medium.com/@vaibhavkhushalani">Medium</a><br>
-  📧 <a href="mailto:vaibhavkhushlani04@gmail.com">Email</a>
+  📧 <a href="https://github.com/Shivansh1067">Github</a>
 </p>
 
 > **Build things. Automate the boring parts. Scale what matters.**
