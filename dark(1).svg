@@ -270,7 +270,7 @@
     <path d="M835 44h12" stroke="#38bdf8" stroke-width="1.2"/>
     <text x="854" y="50">Experience</text>
     
-    <!-- Contact Tab -->
+     <!-- Contact Tab -->
     <circle cx="940" cy="46" r="3" fill="none" stroke="#38bdf8" stroke-width="1.2"/>
     <circle cx="948" cy="46" r="3" fill="none" stroke="#38bdf8" stroke-width="1.2"/>
     <text x="956" y="50">Contact</text>
