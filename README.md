@@ -18,3 +18,70 @@ I’m currently strengthening my programming foundations through **DSA, web deve
 My current engineering interests sit at the intersection of **AI/LLMs, C++, cloud computing, scalable systems, full-stack development, backend architecture, and developer automation.**.
 
 ---
+
+## 🛠️ Engineering Stack
+
+### ⚛️ Frontend
+`React` `Next.js` `TypeScript` `JavaScript` `Redux` `React Query` `Tailwind CSS` `Material UI`
+
+### ⚙️ Backend
+`Node.js` `Express` `FastAPI` `REST APIs` `GraphQL` `Socket.IO`
+
+### 🗄️ Databases
+`PostgreSQL` `MongoDB` `Redis` `Turso / libSQL` `Drizzle ORM`
+
+### ☁️ Cloud / DevOps
+`AWS` `AWS Lambda` `Docker` `Nginx` `GitHub Actions` `Vercel`
+
+### 🧠 Architecture
+`System Design` `Microfrontends` `API Architecture` `Real-time Systems` `Async Workflows` `Caching` `Performance Optimization`
+
+---
+
+## ✍️ Technical Writing
+
+I write about **backend engineering, AI products, performance and real-world engineering challenges**.
+
+- Real-time systems with Socket.IO
+- Node.js performance optimization
+- Subscription and payment systems
+- Production debugging and optimization
+
+---
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://gh-readme-profile.vercel.app/api?username=VaibhavKhushalani&hide=forks,prs_merged,issues,contributed" alt="GitHub profile statistics">
+</p>
+
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/VaibhavKhushalani/github-snake/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/VaibhavKhushalani/github-snake/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/VaibhavKhushalani/github-snake/output/github-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  💼 <a href="https://www.linkedin.com/in/vaibhav-khushalani-760217136/">LinkedIn</a><br>
+  🌐 <a href="https://easyfolio.wuwb.in/vaibhav_khushalani">Portfolio</a><br>
+  📝 <a href="https://medium.com/@vaibhavkhushalani">Medium</a><br>
+  📧 <a href="mailto:vaibhavkhushlani04@gmail.com">Email</a>
+</p>
+
+> **Build things. Automate the boring parts. Scale what matters.**
