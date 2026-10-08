@@ -6,16 +6,15 @@
 </picture>
 
 <p align="center">
-  <b>AI Engineer · Full-Stack Engineer · Backend Systems · AI & SaaS Builder</b>
+  <b>CSE Undergraduate · DSA Learner  · Web Development Explorer</b>
 </p>
 
 <p align="center">
-  🤖 AI / LLMs &nbsp;·&nbsp; 🐍 Python &nbsp;·&nbsp; ⚡ AWS Lambda &nbsp;·&nbsp; ⚛️ React / Next.js
-  &nbsp;·&nbsp; ⚙️ Node.js &nbsp;·&nbsp; ☁️ AWS &nbsp;·&nbsp; 🧠 System Design
+  💻 C++ / DSA &nbsp;·&nbsp; ⚛️ React &nbsp;·&nbsp; ⚡ AWS Lambda &nbsp;·&nbsp; ⚙️ Node.js &nbsp;·&nbsp; ☁️ Cloud Computing &nbsp;·&nbsp; 🏗️ System Design
 </p>
 
-I build **AI-powered products, scalable backend systems, SaaS platforms, automation workflows, and production web applications**.
+I’m currently strengthening my programming foundations through **DSA, web development projects, cloud technologies, and hands-on hackathons**.
 
-My current engineering interests sit at the intersection of **AI/LLMs, Python, serverless systems, full-stack development, backend architecture, and developer automation**.
+My current engineering interests sit at the intersection of **AI/LLMs, C++, cloud computing, scalable systems, full-stack development, backend architecture, and developer automation.**.
 
 ---
