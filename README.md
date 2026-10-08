@@ -78,7 +78,7 @@ I write about **backend engineering, AI products, performance and real-world eng
 ## 📫 Connect With Me
 
 <p>
-  💼 <a href="https://www.linkedin.com/in/vaibhav-khushalani-760217136/">LinkedIn</a><br>
+  💼 <a href="https://www.linkedin.com/in/shivansh-srivastava-3047473b1/">LinkedIn</a><br>
   📧 <a href="https://github.com/Shivansh1067">Github</a>
 </p>
 
